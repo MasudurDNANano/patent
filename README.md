@@ -11,3 +11,6 @@ FIG. 1 is a process diagram for describing an embodiment in outline. In this pro
 First, in a microparticle adhesion step at the upper left, the microparticles 21 having nucleic acid are adhered to the surface of the microparticle adhesion member 22. The microparticle adhesion member 22, on which the microparticles 21 are thus adhered, proceeds to a subsequent membrane breakage step (upper right of the figure).
 With the microparticles, with which the membranes have been broken, an electrophoresis step of using a gel 1 and electrophoresing in a thickness direction of the gel is then performed to make the nucleic acid 20 migrate from a negative electrode side toward a positive electrode side. The nucleic acid 20 thus migrates to a surface of a tape 2 of a nucleic acid detection member 23 (lower right of the figure).
 Finally, the gel 1 on the nucleic acid detection member 23 is removed, the nucleic acid 20 adhered on the surface of the tape 2 is fluorescently stained, and a concentration of the nucleic acid 20 is measured (nucleic acid measuring step).
+
+## PDF file 
+https://github.com/MasudurDNANano/patent/blob/main/Mizuno%20et%20al.%20US8778154B2.pdf
